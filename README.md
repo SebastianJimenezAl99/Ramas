@@ -1,4 +1,4 @@
 # Ramas
 Practicas de como hacer y usar ramas
 
-linea Main => dev
+linea Main => dev => rama-1
